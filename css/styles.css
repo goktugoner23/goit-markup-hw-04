@@ -408,6 +408,11 @@ img {
 }
 
 .footer-container {
+  display: flex;
+  align-items: baseline;
+}
+
+.footer-text-container {
   margin-right: 120px;
 }
 
